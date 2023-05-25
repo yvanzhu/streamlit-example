@@ -1,4 +1,4 @@
-# Welcome to Streamlit!
+# Text_to_category_generator
 clone 仓库到本地
 
 打开teminal，运行如下代码
